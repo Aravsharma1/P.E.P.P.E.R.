@@ -6,7 +6,7 @@ Many seniors in our lives lack strong social connection and friendships with oth
 **How we built it**
 Frontend: Next.js with Tailwind CSS
 Backend: Google Cloud Functions and OpenAI API
-Challenges we ran into
+**Challenges we ran into**
 Configuring frontend application such that it was functional and efficient
 Setting up the cloud service such that it effectively communicates with OpenAI API and format the response for the client to use
 Accomplishments that we're proud of
