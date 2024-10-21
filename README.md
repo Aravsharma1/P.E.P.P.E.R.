@@ -1,5 +1,5 @@
 # P.E.P.P.E.R.
-Co-developed with Aaryan, Ronav, Daryn
+Developed by Arav, Aaryan, Ronav, Jarryd
 
 **Inspiration**
 Many seniors in our lives lack strong social connection and friendships with others. Our project goal was to help combat this issue using emerging technologies​ so that they never have to spend their day-to-day life alone. This project will contribute to the support of health-care workers and care takers as they are not always able to provide the care and attention that everyone deserves
